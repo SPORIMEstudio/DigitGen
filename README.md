@@ -1,6 +1,6 @@
 # MNIST Digit Generator
 
-![Project Banner] (https://github.com/SPORIMEstudio/DigitGen/sporimestudio/banner/banner.jpg)
+![Project Banner] (https://github.com/SPORIMEstudio/DigitGen/blob/main/sporimestudio/banner/banner.jpg)
 
 This is a simple practice project that generates handwritten digit images using the MNIST dataset with PyTorch.
 
