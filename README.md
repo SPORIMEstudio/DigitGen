@@ -1,6 +1,6 @@
 # MNIST Digit Generator
 
-![Project Banner](banner/banner.jpg)
+![Project Banner] (https://github.com/SPORIMEstudio/DigitGen/sporimestudio/banner/banner.jpg)
 
 This is a simple practice project that generates handwritten digit images using the MNIST dataset with PyTorch.
 
@@ -29,10 +29,9 @@ The project is made for learning purposes only. Anyone can download it and try i
 ## 🚀 How to Use
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/mnist-digit-generator.git
-   cd mnist-digit-generator
+   ```bash
+   git clone https://github.com/SPORIMEstudio/DigitGen.git
 
-2. **Install Requirement **
-   ```bash
-   pip install -r requirements.txt
+2.**Install requirement**
+```bash
+pip install -r requirements.txt
