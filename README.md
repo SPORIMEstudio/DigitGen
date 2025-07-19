@@ -1,9 +1,9 @@
 # MNIST Digit Generator
+
 <div align="center">
-  <img src=" " alt="DigitGen Banner" height="190"/>
+  <img src="https://raw.githubusercontent.com/SPORIMEstudio/DigitGen/refs/heads/main/sporimestudio/banner/banner.jpg " alt="DigitGen Banner" height="190"/>
 </div>
 
-![Project Banner] (https://github.com/SPORIMEstudio/DigitGen/blob/main/sporimestudio/banner/banner.jpg)
 
 This is a simple practice project that generates handwritten digit images using the MNIST dataset with PyTorch.
 
