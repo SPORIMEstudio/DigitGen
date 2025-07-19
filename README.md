@@ -1,7 +1,7 @@
 # MNIST Digit Generator
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SPORIMEstudio/DigitGen/refs/heads/main/sporimestudio/banner/banner.jpg " alt="DigitGen Banner" height="190"/>
+  <img src="https://raw.githubusercontent.com/SPORIMEstudio/DigitGen/refs/heads/main/sporimestudio/banner/banner.png " alt="DigitGen Banner" height="190"/>
 </div>
 
 
