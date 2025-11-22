@@ -40,5 +40,5 @@ The project is made for learning purposes only. Anyone can download it and try i
    pip install -r requirements.txt
 
 3. **Third Step**
-   Run the DigitGen.py it will automatically genrate folder and store images in it simple buddy :)
+   Run the DigitGen.py it will automatically genrate folder and store images in its simple ;) 
     
