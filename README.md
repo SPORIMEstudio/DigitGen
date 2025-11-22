@@ -20,6 +20,10 @@ The project is made for learning purposes only. Anyone can download it and try i
 
 ---
 
+- [ ] GUi
+- [ ] Custom Data
+- [X] MNIST data
+
 ## 📂 Files
 
 - `DigitGen.py` — Main Python script for training and generating images.
@@ -28,13 +32,3 @@ The project is made for learning purposes only. Anyone can download it and try i
 - `banner/` — Folder containing project banner or screenshots.
 
 ---
-
-## 🚀 How to Use
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/SPORIMEstudio/DigitGen.git
-
-2.**Install requirement**
-```bash
-pip install -r requirements.txt
