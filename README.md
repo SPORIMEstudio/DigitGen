@@ -35,6 +35,10 @@ The project is made for learning purposes only. Anyone can download it and try i
    ```bash
    git clone https://github.com/SPORIMEstudio/DigitGen.git
 
-2.**Install requirement**
-```bash
-pip install -r requirements.txt
+2. **Install requirement**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Third Step**
+   Run the DigitGen.py it will automatically genrate folder and store images in it simple buddy :)
+    
